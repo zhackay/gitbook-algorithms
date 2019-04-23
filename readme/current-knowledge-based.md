@@ -1,6 +1,7 @@
 # Current Knowledge Based
 
 * [ ] SQL !!!!!!!!!!
-* [ ] SELENIUM !!!!!!!!!!!!!!!
-* [ ] CORS
+* [ ] S
+* [ ] Concurrency
+* [ ] S​ystem design knowledge
 

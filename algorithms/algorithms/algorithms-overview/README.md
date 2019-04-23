@@ -12,7 +12,7 @@ description: 'https://medium.freecodecamp.org/coding-interviews-for-dummies-5e04
 
 ## Geometry
 
-### Graph
+## Graph
 
 ## Interval
 
